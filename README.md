@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**sakshirpatil23/sakshirpatil23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Sakshi Patil 
 
-Here are some ideas to get you started:
+🎓 MCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔐 Aspiring Cybersecurity Specialist
+
+### About Me
+- 🌱 Learning Python and Linux
+- 🔒 Exploring Cybersecurity
+- 💻 Interested in Ethical Hacking
+- 🎯 Building my technical skills step by step
+
+### Skills I'm Learning
+- Python
+- Linux
+- Computer Networks
+- Cybersecurity Fundamentals
+
+### My Goal
+To become a skilled Cybersecurity Professional.
+
+---
+*Learning, Practicing and Growing Every Day.*
